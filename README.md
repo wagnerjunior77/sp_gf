@@ -1,4 +1,4 @@
-This program is designed to calculate almost the exact frame to activate or release SPs (Star Powers) in Guitar Flash, using the timer from a video running in the MPC-HC Player.
+This program is designed to calculate almost the exact frame to activate or pull SPs (Star Powers) in Guitar Flash, using the timer from a video running in the MPC-HC Player.
 
 **How to use it?**
 
